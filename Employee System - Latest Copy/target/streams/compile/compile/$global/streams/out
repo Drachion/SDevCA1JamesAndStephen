@@ -1,0 +1,13 @@
+[0m[[0m[31merror[0m] [0m[0mD:\CA1Public\CA1PUBLIC\Employee System - Latest Copy\app\views\projects.scala.html:68:24: not found: value m[0m
+[0m[[0m[31merror[0m] [0m[0m                  <td>@m.getAddress().getStreet1</td>[0m
+[0m[[0m[31merror[0m] [0m[0m                       ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\CA1Public\CA1PUBLIC\Employee System - Latest Copy\app\views\projects.scala.html:69:24: not found: value m[0m
+[0m[[0m[31merror[0m] [0m[0m                  <td>@m.getAddress().getStreet2</td>[0m
+[0m[[0m[31merror[0m] [0m[0m                       ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\CA1Public\CA1PUBLIC\Employee System - Latest Copy\app\views\projects.scala.html:70:24: not found: value m[0m
+[0m[[0m[31merror[0m] [0m[0m                  <td>@m.getAddress().getTown</td>[0m
+[0m[[0m[31merror[0m] [0m[0m                       ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\CA1Public\CA1PUBLIC\Employee System - Latest Copy\app\views\projects.scala.html:71:24: not found: value m[0m
+[0m[[0m[31merror[0m] [0m[0m                  <td>@m.getAddress().getPostCode</td>[0m
+[0m[[0m[31merror[0m] [0m[0m                       ^[0m
+[0m[[0m[31merror[0m] [0m[0mfour errors found[0m
